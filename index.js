@@ -24,10 +24,13 @@ io.on("connection", (socket) => {
     resock();
   });
 });
-get.dyn.subscribe((data) => {
+get.dyn.mem.subscribe((data) => {
   io.emit("freemem", data);
   freemem = data;
   resock();
+});
+get.dyn.upt.subscribe((data)=>{
+    io.emit("ut",data);
 });
 http.listen(process.env.PORT || 8080, () => {
   console.log("Listen on http://localhost:8080");

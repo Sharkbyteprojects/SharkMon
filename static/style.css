@@ -1,7 +1,14 @@
 td {
   text-align: center;
 }
-div.core {
+div.core, div.net {
   overflow-y: scroll;
   height: 400px;
 }
+div.net {
+    overflow-x: scroll;
+    width: 300px;
+  }
+ table,tr, td{
+      border: 1px solid #0099ff;
+  }
