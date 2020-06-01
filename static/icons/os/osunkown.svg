@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="osms.svg"
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 10 10"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <title
+     id="title12">OS - windows</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="11.984033"
+     inkscape:cy="17.283673"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid14" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OS - windows</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sharkbyte</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect16"
+       style="fill:#000000;stroke-width:1.64751"
+       d="M 9.0000001,4.0000001 8,23 H 30 L 29,4.0000001 Z m 1.9999999,2 H 27 L 28,21 H 10 Z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="rect23"
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       d="M 2.9104167,1.5875 H 7.1437499 L 7.4083331,5.55625 H 2.6458333 Z"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#4d4d4d;stroke-width:0.221366"
+       id="rect26"
+       width="5.8208332"
+       height="1.8520833"
+       x="2.1166666"
+       y="6.0854168" />
+    <g
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="text52"
+       aria-label="?">
+      <path
+         id="path54"
+         style="stroke-width:0.125453;fill:#ccff00"
+         d="m 6.4999308,2.9190449 q 0,0.2001384 -0.1028934,0.3573899 Q 6.2941437,3.4316441 6.1265743,3.5521355 5.9619446,3.6685424 5.747338,3.7706539 5.5327315,3.8727652 5.2916667,3.96875 V 4.4282512 H 4.7654399 V 3.8053717 Q 4.9565278,3.7298093 5.1770139,3.6399513 5.4004399,3.5500933 5.541551,3.458193 5.7120604,3.3519972 5.8061344,3.2396747 5.9002094,3.12531 5.9002094,2.9496784 q 0,-0.2307717 -0.2263658,-0.3430943 Q 5.4504177,2.4922194 5.0947,2.4922194 q -0.3175,0 -0.6026621,0.069436 -0.2822222,0.069436 -0.4468518,0.1409137 H 4.0157871 V 2.2859544 q 0.2057871,-0.05514 0.5203473,-0.098027 0.3175,-0.044929 0.5997223,-0.044929 0.6320602,0 0.9965974,0.2144339 Q 6.499931,2.569824 6.4999308,2.9190449 Z M 5.3387038,5.2451422 H 4.7389815 v -0.43091 h 0.5997223 z" />
+    </g>
+  </g>
+</svg>
