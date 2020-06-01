@@ -11,5 +11,9 @@
     "os"
   ],
   "author": "Sharkbyteprojects",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "rxjs": "^6.5.5"
+  }
 }
