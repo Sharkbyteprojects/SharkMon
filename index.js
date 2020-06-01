@@ -1,7 +1,7 @@
 const expr = require("express");
 const app = expr();
 const get = { static: require("./get/static"), dyn: require("./get/dynamic") };
-app.use(expr.static("static"));
+app.use(expr.static(__dirname+"/static"));
 app.get("/", (req, res) => {
   res.sendFile(__dirname + "/static/index.html");
 });
