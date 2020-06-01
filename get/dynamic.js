@@ -12,4 +12,4 @@ const toexp = Observable.create((observer) => {
     prevmem = mem;
   }, 100);
 });
-module.exports = observer;
+module.exports = toexp;
