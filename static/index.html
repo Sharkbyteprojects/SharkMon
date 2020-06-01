@@ -7,16 +7,31 @@
     <script src="/jquery.js"></script>
     <script src="/socket.io/socket.io.js"></script>
     <script src="/main.js"></script>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
     <table style="width: 100%;">
-        <tr>
-            <td><object data="icons/ram.svg" height="200">Ram:</object></td>
-        </tr>
-        <tr>
-          <td class="mem"><strong class="mem">Loading</strong><br><div class="mem"></div></td>
-        </tr>
+      <tr>
+        <td><object data="/icons/ram.svg" height="100">Ram:</object></td>
+        <td>
+          <object height="100" class="os" data="/icons/os/osunkown.svg"
+            >OS</object
+          >
+        </td>
+        <td>
+          <object class="core" height="100" data="/icons/core.svg"
+            >Core:</object
+          >
+        </td>
+      </tr>
+      <tr>
+        <td class="mem">
+          <strong class="mem">Loading</strong><br />
+          <div class="mem"></div>
+        </td>
+        <td class="os">Loading</td>
+        <td class="core"><div class="core"></div></td>
+      </tr>
     </table>
   </body>
 </html>
