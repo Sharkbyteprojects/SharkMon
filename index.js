@@ -1,5 +1,7 @@
-const app = require("express")();
+const expr = require("express");
+const app = expr();
 const get = { static: require("./get/static"), dyn: require("./get/dynamic") };
+app.use(expr.static("static"));
 app.get("/api/static", (req, res) => {
   res.jsonp(get.static);
 });
@@ -21,6 +23,6 @@ io.on("connection", (socket) => {
 get.dyn.subscribe((data) => {
   io.emit(data);
 });
-http.listen(8080, () => {
+http.listen(process.env.PORT || 8080, () => {
   console.log("Listen on http://localhost:8080");
 });
