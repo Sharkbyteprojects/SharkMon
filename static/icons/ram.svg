@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Ram.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 170 80"
+   height="80mm"
+   width="170mm">
+  <title
+     id="title12">Ram</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="194.26157"
+     inkscape:cx="457.88644"
+     inkscape:zoom="0.98994949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid10"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Ram</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sharkbyteprojects</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <path
+       d="M 5.2916613,5.2916708 H 164.04166 V 74.083335 H 5.2916613 Z"
+       style="fill:#44aa00;stroke-width:0.269823"
+       id="rect14" />
+    <path
+       d="M 21.16666,18.520823 H 47.624992 V 55.56249 H 21.16666 Z"
+       style="fill:#22241c;stroke-width:0.264583"
+       id="rect16" />
+    <path
+       d="M 55.562496,18.520823 H 82.02083 V 55.56249 H 55.562496 Z"
+       style="fill:#22241c;stroke-width:0.264583"
+       id="rect16-8" />
+    <path
+       d="M 89.958328,18.520823 H 116.41666 V 55.56249 H 89.958328 Z"
+       style="fill:#22241c;stroke-width:0.264583"
+       id="rect16-8-2" />
+    <path
+       d="m 124.35415,18.520819 h 26.45833 v 37.041668 h -26.45833 z"
+       style="fill:#22241c;stroke-width:0.264583"
+       id="rect16-8-2-1" />
+    <path
+       d="m 19.579163,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63" />
+    <path
+       d="m 27.516663,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3" />
+    <path
+       d="m 35.454163,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-2" />
+    <path
+       d="m 43.391663,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-2-4" />
+    <path
+       d="m 51.329163,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-7" />
+    <path
+       d="m 59.266663,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-6" />
+    <path
+       d="m 67.204155,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-2-0" />
+    <path
+       d="m 75.141655,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-2-4-8" />
+    <path
+       d="m 83.079163,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-1" />
+    <path
+       d="m 91.016663,66.145821 h 5.291666 v 7.9375 h -5.291666 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-3" />
+    <path
+       d="m 98.954163,66.145821 h 5.291667 v 7.9375 h -5.291667 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-2-5" />
+    <path
+       d="m 106.89167,66.145821 h 5.29167 v 7.9375 h -5.29167 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-2-4-5" />
+    <path
+       d="m 114.82917,66.145821 h 5.29167 v 7.9375 h -5.29167 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-7-8" />
+    <path
+       d="m 122.76667,66.145821 h 5.29167 v 7.9375 h -5.29167 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-6-7" />
+    <path
+       d="m 130.70415,66.145821 h 5.29166 v 7.9375 h -5.29166 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-2-0-8" />
+    <path
+       d="m 138.64165,66.145821 h 5.29166 v 7.9375 h -5.29166 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-2-4-8-8" />
+    <path
+       d="m 146.57916,66.145821 h 5.29167 v 7.9375 h -5.29167 z"
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="rect63-3-6-7-6" />
+  </g>
+</svg>

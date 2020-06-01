@@ -2,6 +2,9 @@ const expr = require("express");
 const app = expr();
 const get = { static: require("./get/static"), dyn: require("./get/dynamic") };
 app.use(expr.static("static"));
+app.get("/",(req,res)=>{
+    res.sendFile(__dirname+"/static/index.html");
+});
 app.get("/api/static", (req, res) => {
   res.jsonp(get.static);
 });
@@ -21,7 +24,7 @@ io.on("connection", (socket) => {
   });
 });
 get.dyn.subscribe((data) => {
-  io.emit(data);
+  io.emit("freemem", data);
 });
 http.listen(process.env.PORT || 8080, () => {
   console.log("Listen on http://localhost:8080");
