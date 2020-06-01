@@ -40,7 +40,7 @@
           });
         for (var cpu of data.cpus) {
           $("div.core").append(
-            `<li>Cpu Model: ${cpu.model}<br>Speed: ${cpu.speed}mhz</li><br>`
+            `<li>Cpu Model: ${cpu.model}<br>Speed: ${cpu.speed}MHz</li><br>`
           );
         }
     
