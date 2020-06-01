@@ -10,5 +10,6 @@ data.codename = os.release();
 data.tmpdir = os.tmpdir();
 data.totalmem = os.totalmem();
 data.osuptime = os.uptime();
+data.freemem = os.freemem();
 
 module.exports = data;
