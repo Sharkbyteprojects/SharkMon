@@ -10,10 +10,11 @@ app.get("/api/static", (req, res) => {
 });
 const http = require("http").createServer(app);
 const io = require("socket.io")(http);
-var numberOfUsers = 0;
+let numberOfUsers = 0;
+let freemem=get.static.freemem_mb;
 function resock() {
-  process.stdout.write("\u001b[2J\u001b[0;0H");
-  process.stdout.write(`Users: ${numberOfUsers}`);
+  process.stdout.write("\r");
+  process.stdout.write(`Users: ${numberOfUsers} || Free Memory: ${freemem} MB`);
 }
 io.on("connection", (socket) => {
   numberOfUsers++;
@@ -25,6 +26,8 @@ io.on("connection", (socket) => {
 });
 get.dyn.subscribe((data) => {
   io.emit("freemem", data);
+  freemem=data;
+  resock();
 });
 http.listen(process.env.PORT || 8080, () => {
   console.log("Listen on http://localhost:8080");

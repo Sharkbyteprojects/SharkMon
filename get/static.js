@@ -8,8 +8,8 @@ data.network = os.networkInterfaces();
 data.os = os.platform(); //'aix', 'darwin', 'freebsd', 'linux', 'openbsd', 'sunos', and 'win32'.
 data.codename = os.release();
 data.tmpdir = os.tmpdir();
-data.totalmem = os.totalmem();
+data.totalmem = Math.round(os.totalmem()*0.000001);
 data.osuptime = os.uptime();
-data.freemem = os.freemem();
+data.freemem_mb = Math.round(os.freemem()*0.000001);
 
 module.exports = data;
