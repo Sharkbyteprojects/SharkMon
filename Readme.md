@@ -21,6 +21,10 @@ express 	| ^4.17.1
 rxjs 		| ^6.5.5
 socket.io 	| ^2.3.0
 
+## Repos
+- [GITLAB](https://gitlab.com/Sharkbyteprojects/SharkMon)
+- [GitHUB](https://github.com/Sharkbyteprojects/SharkMon)
+
 ## USED ICONS
 ### Created by Sharkbyteprojects
 - ![](https://raw.githubusercontent.com/Sharkbyteprojects/SharkMon/master/static/icons/core.svg)
