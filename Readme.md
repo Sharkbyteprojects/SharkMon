@@ -1,7 +1,7 @@
 # Sharkmon
-[![Travis CI](https://api.travis-ci.org/Sharkbyteprojects/SharkMon.svg?branch=master)](https://travis-ci.org/github/Sharkbyteprojects/SharkMon)
+- [Travis CI](https://travis-ci.org/github/Sharkbyteprojects/SharkMon)
+- [DEMO](https://glitch.com/~sharkmon-demo)
 
-[DEMO](https://glitch.com/~sharkmon-demo)
 ## How To:
 ### Start
 - Run `npm init`
