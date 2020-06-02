@@ -10,7 +10,9 @@ const toexp = Observable.create((observer) => {
     prevmem = mem;
   }, 100);
 });
-const uptime=Observable.create((observer)=>{
-    setInterval(()=>{observer.next(os.uptime());}, 1000);
+const uptime = Observable.create((observer) => {
+  setInterval(() => {
+    observer.next(os.uptime());
+  }, 1000);
 });
-module.exports = {mem:toexp, upt:uptime};
+module.exports = { mem: toexp, upt: uptime };

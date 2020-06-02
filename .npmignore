@@ -1,1 +1,3 @@
 node_modules
+.travis.yml
+./get/static.test.js
