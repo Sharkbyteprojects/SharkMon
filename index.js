@@ -1,9 +1,10 @@
 const expr = require('express')
 const app = expr()
+const path = require('path')
 const get = { static: require('./get/static'), dyn: require('./get/dynamic') }
 app.use(expr.static(path.join(__dirname, 'static')))
 app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/static/index.html')
+  res.sendFile(path.join(__dirname, 'static', 'index.html'))
 })
 app.get('/api/static', (req, res) => {
   res.jsonp(get.static())

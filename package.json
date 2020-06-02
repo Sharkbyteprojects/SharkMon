@@ -4,7 +4,7 @@
   "description": "Monitores system resources",
   "main": "index.js",
   "scripts": {
-    "test": "node ./get/static.test.js",
+    "test": "eslint index.js get&&node ./get/static.test.js",
     "start": "node index.js"
   },
   "keywords": [
