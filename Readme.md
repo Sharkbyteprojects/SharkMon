@@ -4,6 +4,7 @@
 
 ## How To:
 ### Start
+- Install [`Node.JS`](https://nodejs.org/) and [`NPM`](https://www.npmjs.com/)
 - Run `npm init`
 - Create `index.js`
 - Run `npm install sharkmon`
