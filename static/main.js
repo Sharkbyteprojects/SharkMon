@@ -1,5 +1,5 @@
 (function () {
-  const socket = io();
+  const socket = io('/api/dynamic');
   const osselect = {
     linux: "oslinux",
     win32: "osms",

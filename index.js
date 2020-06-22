@@ -10,7 +10,7 @@ app.get('/api/static', (req, res) => {
   res.jsonp(get.static())
 })
 const http = require('http').createServer(app)
-const io = require('socket.io')(http)
+const io = require('socket.io')(http).of('/api/dynamic')
 let numberOfUsers = 0
 let freemem = get.static().freemem_mb
 function resock () {
