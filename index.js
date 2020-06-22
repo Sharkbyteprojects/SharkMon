@@ -14,7 +14,8 @@ const io = require('socket.io')(http).of('/api/dynamic')
 let numberOfUsers = 0
 let freemem = get.static().freemem_mb
 function resock () {
-  process.stdout.write('\r')
+  process.stdout.clearLine()
+  process.stdout.cursorTo(0)
   process.stdout.write(`Users: ${numberOfUsers} || Free Memory: ${freemem} MB`)
 }
 io.on('connection', (socket) => {
