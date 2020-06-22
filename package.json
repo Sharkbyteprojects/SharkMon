@@ -1,6 +1,6 @@
 {
   "name": "sharkmon",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "Monitores system resources",
   "main": "index.js",
   "scripts": {
