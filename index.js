@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const expr = require('express')
 const app = expr()
 const path = require('path')

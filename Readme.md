@@ -5,12 +5,7 @@
 ## How To:
 ### Start
 - Install [`Node.JS`](https://nodejs.org/) and [`NPM`](https://www.npmjs.com/)
-- Run `npm init`
-- Create `index.js`
-- Run `npm install sharkmon`
-- Write `require("sharkmon");` 
-to the `index.js`
-- Run your `index.js`
+- Run `npx sharkmon`
 ### View
 - Open [`http://localhost:8080`](http://localhost:8080)
 in your Browser
