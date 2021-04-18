@@ -43,6 +43,11 @@ get.dyn.mem.subscribe((data) => {
   freemem = data
   resock()
 })
+get.dyn.freedisks.subscribe((data) => {
+  if(!data.fail){
+    io.emit('fdisk', data.mb)
+  }
+})
 get.dyn.upt.subscribe((data) => {
   io.emit('ut', data)
 })
