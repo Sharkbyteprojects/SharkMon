@@ -1,0 +1,12 @@
+{
+  "name": "win-drive-internal-sharkmon",
+  "version": "1.0.0",
+  "description": "This shouldnt be used! this is only for use in SharkMon",
+  "main": "main.js",
+  "scripts": {
+    "install": "node iwin||node-gyp rebuild||echo errInBuild"
+  },
+  "author": "Sharkbyteprojects",
+  "license": "ISC",
+  "gypfile": true
+}
