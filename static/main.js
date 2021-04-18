@@ -45,7 +45,7 @@
           $("x.freedisk").html(msg + " mb");
         });
       }else{
-        $("div.freedisk").html("Disk Watch isn't implemented yet at your OS!");
+        $("li.freedisk").html("Disk Watch isn't implemented yet at your OS!");
       }
       for (var cpu of data.cpus) {
         $("div.core").append(`<li>Cpu Model: ${cpu.model}<br>Speed: ${cpu.speed}MHz</li><br>`);
