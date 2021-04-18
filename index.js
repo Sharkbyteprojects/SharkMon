@@ -44,7 +44,7 @@ get.dyn.mem.subscribe((data) => {
   resock()
 })
 get.dyn.freedisks.subscribe((data) => {
-  if(!data.fail){
+  if (!data.fail) {
     io.emit('fdisk', data.mb)
   }
 })
