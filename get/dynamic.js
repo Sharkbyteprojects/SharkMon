@@ -18,7 +18,7 @@ const uptime = Observable.create((observer) => {
 })
 const freedisks = Observable.create((observer) => {
   const platform = os.platform()
-  if (platform === "win32" || platform==='linux') {
+  if (platform === 'win32' || platform === 'linux') {
     setInterval(() => {
       const fdv = freedisk()
       observer.next(fdv !== -1 ? fdv : 0)
