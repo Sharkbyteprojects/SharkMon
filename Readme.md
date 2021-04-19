@@ -1,6 +1,7 @@
 # Sharkmon
 - [![Travis CI](https://api.travis-ci.org/Sharkbyteprojects/SharkMon.svg?branch=master)](https://travis-ci.org/github/Sharkbyteprojects/SharkMon)
 - [DEMO](https://glitch.com/~sharkmon-demo)
+- [Updated Demo Page](https://sharkmo-demo-v2.glitch.me/)
 
 ## How To:
 ### Start
