@@ -16,7 +16,7 @@ name 		                 | Version
 express 	                 | ^4.17.1
 rxjs 		                 | ^6.5.5
 socket.io 	                 | ^2.3.0
-win-drive-internal-sharkmon  | ^1.0.0
+win-drive-internal-sharkmon  | ^1.0.1
 
 ## Repos
 - [GITLAB](https://gitlab.com/Sharkbyteprojects/SharkMon)

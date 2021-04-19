@@ -1,6 +1,6 @@
 {
   "name": "sharkmon",
-  "version": "2.3.10",
+  "version": "2.3.11",
   "description": "Monitores system resources",
   "main": "index.js",
   "bin": {
@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "rxjs": "^6.5.5",
     "socket.io": "^2.3.0",
-    "win-drive-internal-sharkmon": "^1.0.0"
+    "win-drive-internal-sharkmon": "^1.0.1"
   },
   "devDependencies": {
     "eslint": "^6.0.0",

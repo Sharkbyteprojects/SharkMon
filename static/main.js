@@ -16,6 +16,7 @@
 
     if (osname == "linux") {
       x = mkstr(osselect.linux);
+	  iswin=true;
     } else if (osname == "win32") {
       x = mkstr(osselect.win32);
       iswin=true;
