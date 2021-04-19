@@ -1,4 +1,5 @@
-const os=require("os").platform() === "win32";
+const platform=require("os").platform();
+const os=platform === "win32"||platform==='linux';
 function x(){
     if(os){
         try{

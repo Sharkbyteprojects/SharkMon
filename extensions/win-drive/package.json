@@ -1,6 +1,6 @@
 {
   "name": "win-drive-internal-sharkmon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This shouldnt be used! this is only for use in SharkMon",
   "main": "main.js",
   "scripts": {
